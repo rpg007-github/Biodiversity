@@ -1,2 +1,2 @@
-# Bio-II-lab
-Bio II lab learning modules
+# Biodiversity
+Biodiversity learning modules
